@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amiyosadhukhan
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java,python,c++
+- 🌱 I’m currently learning java,python,c++,html
 - 💞️ I’m looking to collaborate on hacking
 - 📫 Reach me by amiyosadhukhan18@gmail.com
 
